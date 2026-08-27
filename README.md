@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm currently learning Python and building projects to strengthen
+I'm currently learning and building projects to strengthen
 my programming fundamentals.
 
 I enjoy learning by building things and improving my projects step by step.
