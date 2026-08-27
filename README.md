@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Nikhil 👋
 
-<!--
-**nikhilraut01/nikhilraut01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Student  
+🐍 Python Learner  
+🚀 Learning by Building
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning Python and building projects to strengthen
+my programming fundamentals.
+
+I enjoy learning by building things and improving my projects step by step.
+
+## 🛠️ Skills
+
+- Python
+- Git & GitHub
+- Functions
+- Lists & Dictionaries
+- File Handling
+- Exception Handling
+- Object-Oriented-Programming
+
+## 📚 Currently Learning
+
+- Advanced Python
+- NumPy
+- Pandas
+- Data Visualization
+- SQL
+
+## 🚀 Projects
+
+### 📝 To-Do List
+A beginner-friendly Python CLI application for managing tasks.
+
+### 💰 Expense Tracker
+A Python CLI application for tracking and managing daily expenses.
+
+### 📇 Contact Management System
+A Python CLI application for managing contacts.
+
+## 🎯 Goal
+
+To build strong foundations in Python, Data Science,
+Machine Learning and AI through practical projects.
+
+---
+
+⭐ Thanks for visiting my profile!
