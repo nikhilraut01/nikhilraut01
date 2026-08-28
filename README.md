@@ -1,7 +1,7 @@
 # Hi, I'm Nikhil 👋
 
 🎓 AI & Data Science Student  
-🐍 Python Learner  
+ 
 🚀 Learning by Building
 
 ## 👨‍💻 About Me
@@ -39,6 +39,9 @@ A Python CLI application for tracking and managing daily expenses.
 
 ### 📇 Contact Management System
 A Python CLI application for managing contacts.
+
+### 🧑‍🎓 Student Management System
+A Python CLI application for tracking students data.
 
 ## 🎯 Goal
 
