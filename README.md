@@ -20,15 +20,7 @@ I enjoy learning by building things and improving my projects step by step.
 - File Handling
 - Exception Handling
 - Object-Oriented-Programming
-
-## 📚 Currently Learning
-
-- Advanced Python
-- NumPy
-- Pandas
-- Data Visualization
-- SQL
-
+- 
 ## 🚀 Projects
 
 ### 📝 To-Do List
@@ -42,6 +34,9 @@ A Python CLI application for managing contacts.
 
 ### 🧑‍🎓 Student Management System
 A Python CLI application for tracking students data.
+
+### 🏦BANKING SYSTEM
+A Python CLI application for managing bank accounts, deposits, withdrawals, balances, and transaction records using file handling.
 
 ## 🎯 Goal
 
