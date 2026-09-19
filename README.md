@@ -13,15 +13,27 @@ I enjoy learning by building things and improving my projects step by step.
 
 ## 🛠️ Skills
 
+**Languages**
 - Python
-- Git & GitHub
-- Functions
-- Lists & Dictionaries
-- File Handling
-- Exception Handling
-- Object-Oriented-Programming
-- 
+- SQL
+
+**Libraries/Tools**
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Git & Github
+
+**Current Focus**
+- Data Analysis
+- AI & Data Science
+- Building practical projects
+- Strengthening Python & SQL skills 
+
 ## 🚀 Projects
+
+### 🛒E-Commerce Sales & Customer Behavior Analysis
+A data analysis project using Python, Pandas, NumPy, SQL, Matplotlib, and Seaborn to analyze sales, customers, product categories, payment methods, discounts, and other business insights.
 
 ### 📝 To-Do List
 A beginner-friendly Python CLI application for managing tasks.
